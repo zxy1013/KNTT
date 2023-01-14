@@ -1,0 +1,21 @@
+﻿  kntt.cpp
+C:\Users\Administrator\Desktop\KNTT\code\KNTT-C\kntt\kntt\kntt.cpp(185,101): warning C4101: “fg_odd”: 未引用的局部变量
+C:\Users\Administrator\Desktop\KNTT\code\KNTT-C\kntt\kntt\kntt.cpp(238,11): warning C4101: “f_eo”: 未引用的局部变量
+C:\Users\Administrator\Desktop\KNTT\code\KNTT-C\kntt\kntt\kntt.cpp(234,72): warning C4101: “fg_1”: 未引用的局部变量
+C:\Users\Administrator\Desktop\KNTT\code\KNTT-C\kntt\kntt\kntt.cpp(238,37): warning C4101: “fg_eo”: 未引用的局部变量
+C:\Users\Administrator\Desktop\KNTT\code\KNTT-C\kntt\kntt\kntt.cpp(238,24): warning C4101: “g_eo”: 未引用的局部变量
+C:\Users\Administrator\Desktop\KNTT\code\KNTT-C\kntt\kntt\kntt.cpp(277,53): warning C4101: “fg_03”: 未引用的局部变量
+C:\Users\Administrator\Desktop\KNTT\code\KNTT-C\kntt\kntt\kntt.cpp(277,165): warning C4101: “fg_23”: 未引用的局部变量
+C:\Users\Administrator\Desktop\KNTT\code\KNTT-C\kntt\kntt\kntt.cpp(277,25): warning C4101: “fg_01”: 未引用的局部变量
+C:\Users\Administrator\Desktop\KNTT\code\KNTT-C\kntt\kntt\kntt.cpp(277,137): warning C4101: “fg_21”: 未引用的局部变量
+C:\Users\Administrator\Desktop\KNTT\code\KNTT-C\kntt\kntt\kntt.cpp(277,207): warning C4101: “fg_32”: 未引用的局部变量
+C:\Users\Administrator\Desktop\KNTT\code\KNTT-C\kntt\kntt\kntt.cpp(277,67): warning C4101: “fg_10”: 未引用的局部变量
+C:\Users\Administrator\Desktop\KNTT\code\KNTT-C\kntt\kntt\kntt.cpp(277,193): warning C4101: “fg_31”: 未引用的局部变量
+C:\Users\Administrator\Desktop\KNTT\code\KNTT-C\kntt\kntt\kntt.cpp(277,39): warning C4101: “fg_02”: 未引用的局部变量
+C:\Users\Administrator\Desktop\KNTT\code\KNTT-C\kntt\kntt\kntt.cpp(277,123): warning C4101: “fg_20”: 未引用的局部变量
+C:\Users\Administrator\Desktop\KNTT\code\KNTT-C\kntt\kntt\kntt.cpp(277,179): warning C4101: “fg_30”: 未引用的局部变量
+C:\Users\Administrator\Desktop\KNTT\code\KNTT-C\kntt\kntt\kntt.cpp(277,109): warning C4101: “fg_13”: 未引用的局部变量
+C:\Users\Administrator\Desktop\KNTT\code\KNTT-C\kntt\kntt\kntt.cpp(277,95): warning C4101: “fg_12”: 未引用的局部变量
+C:\Users\Administrator\Desktop\KNTT\code\KNTT-C\kntt\kntt\kntt.cpp(279,11): warning C4101: “temp”: 未引用的局部变量
+C:\Users\Administrator\Desktop\KNTT\code\KNTT-C\kntt\kntt\kntt.cpp(398,9): warning C4101: “total_time”: 未引用的局部变量
+  kntt.vcxproj -> C:\Users\Administrator\Desktop\KNTT\code\KNTT-C\kntt\x64\Debug\kntt.exe

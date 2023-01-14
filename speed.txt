@@ -1,0 +1,100 @@
+# cat /proc/cpuinfo | grep 'model name' |uniq
+CPU
+// Intel(R) Xeon(R) Silver 4110 CPU @ 2.10GHz
+N = 1024 
+ntt time:0.095096 ms
+1Iptntt_kara time:0.090971 ms
+2Iptntt_kara time:0.084620 ms
+3Iptntt_ult time:0.078881 ms
+N = 2048 
+ntt time:0.202526 ms
+1Iptntt_kara time:0.195343 ms
+2Iptntt_kara time:0.187576 ms
+3Iptntt_ult time:0.180368 ms
+N = 4096
+ntt time:0.712287 ms
+1Iptntt_kara time:0.691153 ms
+2Iptntt_kara time:0.658523 ms
+3Iptntt_ult time:0.676990 ms
+
+// Intel(R) Xeon(R) Gold 6133 CPU @ 2.50GHz
+N = 1024 
+ntt time:0.089282 ms
+1Iptntt_kara time:0.085564 ms
+2Iptntt_kara time:0.079881 ms
+3Iptntt_ult time:0.073674 ms
+N = 2048 
+ntt time:0.193660 ms
+1Iptntt_kara time:0.186729 ms
+2Iptntt_kara time:0.179678 ms
+3Iptntt_ult time:0.172074 ms
+N = 4096 
+ntt time:0.421064 ms
+1Iptntt_kara time:0.406940 ms
+2Iptntt_kara time:0.392682 ms
+3Iptntt_ult time:0.420387 ms
+
+
+
+GPU
+// Quadro P2000
+N = 1024 
+ntt time:0.149596 ms
+1KNTT time:0.081046 ms
+2KNTT time:0.073859 ms
+3KNTT time:0.083536 ms
+N = 2048
+ntt time:0.173147 ms
+1KNTT time:0.103257 ms
+2KNTT time:0.097761 ms
+3KNTT time:0.094223 ms
+N = 4096
+ntt time:/ ms
+1KNTT time:0.143881 ms
+2KNTT time:0.090842 ms
+3KNTT time:0.090318 ms
+
+
+// Tesla P4
+N = 1024
+ntt time:0.093328 ms
+1KNTT time:0.080600 ms
+2KNTT time:0.073848 ms
+3KNTT time:0.093525 ms
+N = 2048
+ntt time:0.138229 ms
+1KNTT time:0.094297 ms
+2KNTT time:0.075602 ms
+3KNTT time:0.088435 ms
+N = 4096
+ntt time:/ ms
+1KNTT time:0.149457 ms
+2KNTT time:0.096835 ms
+3KNTT time:0.095375 ms
+
+
+// Tesla V100-NVLINK-32G
+N = 1024
+ntt time:0.049814 ms
+1KNTT time:0.049294 ms
+2KNTT time:0.048846 ms
+3KNTT time:0.042636 ms
+N = 2048
+ntt time:0.068041 ms
+1KNTT time:0.052013 ms
+2KNTT time:0.045825 ms
+3KNTT time:0.040256 ms
+N = 4096
+ntt time:/ ms
+1KNTT time:0.076382 ms
+2KNTT time:0.052586 ms
+3KNTT time:0.042961 ms
+
+
+
+
+
+
+
+
+
